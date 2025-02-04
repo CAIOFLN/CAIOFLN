@@ -1,14 +1,13 @@
 # Caio Florentin de Oliveira
-- ⚡ Graduating in electrical and computer engineering at EESC-USP
-- 🤖 I’m currently part of Semear Group **(https://github.com/Grupo-SEMEAR-USP)**
+- 💻​ Graduating in computer engineering at EESC-USP
+- 🤖 I’m currently part of [Semear Group](https://github.com/Grupo-SEMEAR-USP)
 - 🌱 Seeking to expand my knowledge in new technologies
 - 🚀 Currently fascinated about robotics
 
-
 <div>
     <a href="https://github.com/CAIOFLN">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CAIOFLN&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAIOFLN&layout=compact&langs_count=7&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CAIOFLN&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAIOFLN&layout=compact&langs_count=7&theme=radical&hide=html,css"/>
 </div>
 
 <h4>Technologies I use</h4>
@@ -28,17 +27,9 @@
 </p> 
 
 ##
- 
-![Snake animation](https://github.com/Felipe-Tommaselli/Felipe-Tommaselli/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/CAIOFLN/CAIOFLN/blob/output/github-contribution-grid-snake.svg)
 
 <div>
-  <a href = "mailto:caio.florentin@usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<div>
-
-[NRA-Programacao]: https://github.com/NRA-Programacao "NRA, Grupo SEMEAR - EESC/USP"
-    
-[Grupo SEMEAR]: https://github.com/Grupo-SEMEAR-USP "Grupo SEMEAR - EESC/USP"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+  <a href="mailto:caio.florentin@usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
